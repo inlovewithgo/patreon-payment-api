@@ -2,5 +2,3 @@
 .idea/
 /.env
 /.idea
-venv
-__pycache__
