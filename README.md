@@ -3,7 +3,6 @@
 This project provides a Python API for interacting with Patreon. Below are instructions for setting up and running the API, as well as details on the available endpoints.
 
 ![license](https://img.shields.io/badge/license-MIT-red)
-[![discord](https://img.shields.io/discord/987749138743582811?color=7289da&logo=discord&logoColor=white)](https://discord.gg/ghouls)
 
 
 ## Table of Contents
