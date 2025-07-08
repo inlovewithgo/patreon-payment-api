@@ -107,5 +107,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries, please contact the repository owner at [exrod](https://github.com/exrod).
-Join our Discord https://brogot.space/
+Github Username Changed to - @inlovewithgo
